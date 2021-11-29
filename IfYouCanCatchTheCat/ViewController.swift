@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 //        eğer seguenin kimliği buysa
         if segue.identifier == "toGameVC"{
-            
+            // --------
 //            sonraki sayfa tipinden segue cast ediyoruz => as
 //            destinationVC ile gidilecek pencerenin sahip olduğu değişkenleri görebilcez
             let destinationVC = segue.destination as! GameViewController
