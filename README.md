@@ -1,2 +1,2 @@
 # IfYouCanCatchTheCat
- Just a Game :)
+ Just a Game for beginner to Swift :)
